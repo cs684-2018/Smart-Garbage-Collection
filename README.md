@@ -1,1 +1,0 @@
-# Smart-Garbage-Collection
